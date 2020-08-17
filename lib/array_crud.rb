@@ -1,8 +1,9 @@
 def create_an_empty_array
-  ["A", "B", "C", "D"]
+  []
 end
 
 def create_an_array
+  ["A", "B", "C", "D"]
 
 end
 
